@@ -1,12 +1,4 @@
-"""This module extracts information from your `.env` file so that
-you can use your AplhaVantage API key in other parts of the application.
-"""
-
-# The os library allows you to communicate with a computer's
-# operating system: https://docs.python.org/3/library/os.html
 import os
-
-# pydantic used for data validation: https://pydantic-docs.helpmanual.io/
 from pydantic_settings import BaseSettings
 
 def return_full_path(filename: str = ".env") -> str:
@@ -24,8 +16,3 @@ class Settings(BaseSettings):
 
     class Config:
         env_file = return_full_path(".env")
-
-
-# Create instance of `Settings` class that will be imported
-# in lesson notebooks and the other modules for application.
-settings = Settings()
