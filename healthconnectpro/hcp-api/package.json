@@ -1,0 +1,36 @@
+{
+  "name": "simple-logging-service",
+  "version": "1.0.0",
+  "description": "A simple logging service application",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js",
+    "dev": "nodemon app.js",
+    "migrate": "node models/migrations.js",
+    "drop": "node models/drop.js"
+  },
+  "keywords": [
+    "logger",
+    "winston",
+    "morgan",
+    "api"
+  ],
+  "author": "Olushola O.",
+  "license": "MIT",
+  "dependencies": {
+    "bcrypt": "^5.1.1",
+    "body-parser": "^1.20.2",
+    "cors": "^2.8.5",
+    "dotenv": "^16.3.1",
+    "express": "^4.18.2",
+    "express-validator": "^7.0.1",
+    "helmet": "^7.0.0",
+    "jsonwebtoken": "^9.0.2",
+    "pg": "^8.11.3",
+    "winston": "^3.11.0"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.1"
+  }
+}

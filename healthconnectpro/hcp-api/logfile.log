@@ -1,0 +1,707 @@
+[32minfo[39m: : 	INFO => 2023-11-07T21:41:56.100Z - SERVER STARTED ON 127.0.0.1:3000
+[31merror[39m: : 	ERROR => 409 || 2023-11-07T21:42:29.225Z - REGISTRATION CONFLICT - /api/v1/register - POST - ::1
+[32minfo[39m: : 	INFO => 201 || 2023-11-07T21:43:12.932Z - NEW USER CREATED - /api/v1/register - POST - ::1
+[33mwarn[39m: : 	WARN => 404 || 2023-11-07T21:44:14.226Z - INCORRECT PASSWORD - /api/v1/login - POST - ::1
+[32minfo[39m: : 	INFO => 200 || 2023-11-07T21:44:23.181Z - LOGIN SUCCESSFUL - /api/v1/login - POST - ::1
+[32minfo[39m: : 	INFO => 200 || 2023-11-07T21:44:34.216Z - all messages - /api/v1/messages - GET - ::1
+[32minfo[39m: : 	INFO => 2023-11-07T21:48:13.667Z - SERVER STARTED ON 127.0.0.1:3000
+[32minfo[39m: : 	INFO => 2023-11-07T21:48:30.751Z - SERVER STARTED ON 127.0.0.1:3000
+[32minfo[39m: : 	INFO => 2023-11-07T21:48:39.416Z - SERVER STARTED ON 127.0.0.1:3000
+[31merror[39m: : 	ERROR => 400 || 2023-11-07T21:48:48.082Z - JWT EXPIRED - /api/v1/message - POST - ::1
+[32minfo[39m: : 	INFO => 200 || 2023-11-07T21:51:26.285Z - all messages - /api/v1/messages - GET - ::1
+[32minfo[39m: : 	INFO => 2023-11-07T21:52:43.977Z - SERVER STARTED ON 127.0.0.1:3000
+[32minfo[39m: : 	INFO => 200 || 2023-11-07T21:52:47.548Z - ALL MESSAGES - /api/v1/messages - GET - ::1
+[32minfo[39m: : 	INFO => 201 || 2023-11-07T21:54:20.811Z - ADDED NEW MESSAGE - /api/v1/message - POST - ::1
+[32minfo[39m: : 	INFO => 201 || 2023-11-07T21:54:31.456Z - ADDED NEW MESSAGE - /api/v1/message - POST - ::1
+[32minfo[39m: : 	INFO => 200 || 2023-11-07T21:54:43.901Z - ALL MESSAGES - /api/v1/messages - GET - ::1
+[32minfo[39m: : 	INFO => 200 || 2023-11-07T21:55:57.391Z - LOGIN SUCCESSFUL - /api/v1/login - POST - ::1
+[33mwarn[39m: : 	WARN => 401 || 2023-11-07T21:56:44.434Z - PERMISSION DENIED!!! - /api/v1/message/1 - PUT - ::1
+[33mnotice[39m: : 	NOTICE => 2023-11-07T22:15:02.809Z - SERVER STARTED ON 127.0.0.1:3000
+[33mnotice[39m: : 	NOTICE => 2023-11-09T18:24:27.134Z - SERVER STARTED ON 127.0.0.1:3000
+[32minfo[39m: : 	INFO => 200 || 2023-11-09T18:25:01.803Z - LOGIN SUCCESSFUL - /api/v1/login - POST - ::1
+[33mnotice[39m: : 	NOTICE => 2023-11-09T18:26:00.518Z - SERVER STARTED ON 127.0.0.1:3000
+[33mwarn[39m: : 	WARN => 404 || 2023-11-09T18:26:06.104Z - Not Found - /api/v1/logins - POST - ::1
+[32minfo[39m: : 	INFO => 200 || 2023-11-09T22:49:26.609Z - LOGIN SUCCESSFUL - /api/v1/login - POST - ::1
+[33mnotice[39m: : 	NOTICE => 2023-11-22T17:05:54.637Z - SERVER STARTED ON 127.0.0.1:3000
+[33mnotice[39m: : 	NOTICE => 2023-11-22T17:08:02.605Z - SERVER STARTED ON 127.0.0.1:3000
+[33mnotice[39m: : 	NOTICE => 2023-11-22T17:10:53.794Z - SERVER STARTED ON 127.0.0.1:3000
+[33mnotice[39m: : 	NOTICE => 2023-11-22T17:11:05.134Z - SERVER STARTED ON 127.0.0.1:3000
+[33mnotice[39m: : 	NOTICE => 2023-11-22T17:11:53.366Z - SERVER STARTED ON 127.0.0.1:3000
+[33mnotice[39m: : 	NOTICE => 2023-11-22T17:14:52.484Z - SERVER STARTED ON 127.0.0.1:3000
+[33mnotice[39m: : 	NOTICE => 2023-11-22T17:16:08.234Z - SERVER STARTED ON 127.0.0.1:3000
+[33mnotice[39m: : 	NOTICE => 2023-11-22T17:16:46.887Z - SERVER STARTED ON 127.0.0.1:3000
+[33mnotice[39m: : 	NOTICE => 2023-11-22T17:18:29.660Z - SERVER STARTED ON 127.0.0.1:3000
+[33mnotice[39m: : 	NOTICE => 2023-11-22T17:21:26.435Z - SERVER STARTED ON 127.0.0.1:3000
+[33mnotice[39m: : 	NOTICE => 2023-11-22T17:21:33.778Z - SERVER STARTED ON 127.0.0.1:3000
+[33mnotice[39m: : 	NOTICE => 2023-11-22T17:22:18.219Z - SERVER STARTED ON 127.0.0.1:3000
+[33mnotice[39m: : 	NOTICE => 2023-11-22T17:23:27.978Z - SERVER STARTED ON 127.0.0.1:3000
+[32minfo[39m: : 	INFO => 201 || 2023-11-22T17:24:11.626Z - NEW USER CREATED - /api/v1/register - POST - ::1
+[32minfo[39m: : 	INFO => 200 || 2023-11-22T17:24:44.388Z - LOGIN SUCCESSFUL - /api/v1/login - POST - ::1
+[33mnotice[39m: : 	NOTICE => 2023-11-22T17:27:07.104Z - SERVER STARTED ON 127.0.0.1:3000
+[33mnotice[39m: : 	NOTICE => 2023-11-22T18:11:54.388Z - SERVER STARTED ON 127.0.0.1:3000
+[33mnotice[39m: : 	NOTICE => 2023-11-22T18:12:08.559Z - SERVER STARTED ON 127.0.0.1:3000
+[32minfo[39m: : 	INFO => 201 || 2023-11-22T18:17:29.689Z - NEW USER CREATED - /api/v1/register - POST - ::1
+[33mnotice[39m: : 	NOTICE => 2023-11-22T18:18:04.453Z - SERVER STARTED ON 127.0.0.1:3000
+[33mnotice[39m: : 	NOTICE => 2023-11-22T18:21:53.314Z - SERVER STARTED ON 127.0.0.1:3000
+[32minfo[39m: : 	INFO => 201 || 2023-11-22T18:22:19.952Z - NEW USER CREATED - /api/v1/register - POST - ::1
+[33mwarn[39m: : 	WARN => 404 || 2023-11-22T19:03:46.544Z - INVALID LOGIN CREDENTIALS - /api/v1/login - POST - ::1
+[33mwarn[39m: : 	WARN => 404 || 2023-11-22T19:04:05.418Z - INVALID LOGIN CREDENTIALS - /api/v1/login - POST - ::1
+[33mwarn[39m: : 	WARN => 404 || 2023-11-22T19:04:14.038Z - INVALID LOGIN CREDENTIALS - /api/v1/login - POST - ::1
+[32minfo[39m: : 	INFO => 200 || 2023-11-22T19:04:26.720Z - LOGIN SUCCESSFUL - /api/v1/login - POST - ::1
+[32minfo[39m: : 	INFO => 200 || 2023-11-22T19:06:51.988Z - LOGIN SUCCESSFUL - /api/v1/login - POST - ::1
+[32minfo[39m: : 	INFO => 200 || 2023-11-22T19:07:21.111Z - LOGIN SUCCESSFUL - /api/v1/login - POST - ::1
+[33mnotice[39m: : 	NOTICE => 2023-11-22T19:09:14.597Z - SERVER STARTED ON 127.0.0.1:3000
+[33mnotice[39m: : 	NOTICE => 2023-11-22T19:11:20.818Z - SERVER STARTED ON 127.0.0.1:3000
+[33mnotice[39m: : 	NOTICE => 2023-11-22T19:11:35.158Z - SERVER STARTED ON 127.0.0.1:3000
+[33mwarn[39m: : 	WARN => 404 || 2023-11-22T19:11:56.239Z - INCORRECT PASSWORD - /api/v1/login - POST - ::1
+[32minfo[39m: : 	INFO => 200 || 2023-11-22T19:12:14.565Z - LOGIN SUCCESSFUL - /api/v1/login - POST - ::1
+[32minfo[39m: : 	INFO => 200 || 2023-11-22T19:18:08.000Z - LOGIN SUCCESSFUL - /api/v1/login - POST - ::1
+[32minfo[39m: : 	INFO => 200 || 2023-11-22T19:21:16.665Z - LOGIN SUCCESSFUL - /api/v1/login - POST - ::1
+[33mnotice[39m: : 	NOTICE => 2023-11-22T19:35:53.140Z - SERVER STARTED ON 127.0.0.1:3000
+[33mnotice[39m: : 	NOTICE => 2023-11-22T19:36:10.577Z - SERVER STARTED ON 127.0.0.1:3000
+[33mnotice[39m: : 	NOTICE => 2023-11-22T19:36:14.216Z - SERVER STARTED ON 127.0.0.1:3000
+[33mnotice[39m: : 	NOTICE => 2023-11-22T19:36:16.085Z - SERVER STARTED ON 127.0.0.1:3000
+[33mnotice[39m: : 	NOTICE => 2023-11-22T19:36:51.727Z - SERVER STARTED ON 127.0.0.1:3000
+[33mnotice[39m: : 	NOTICE => 2023-11-22T19:37:01.737Z - SERVER STARTED ON 127.0.0.1:3000
+[32minfo[39m: : 	INFO => 200 || 2023-11-22T19:41:15.658Z - LOGIN SUCCESSFUL - /api/v1/login - POST - ::1
+[32minfo[39m: : 	INFO => 200 || 2023-11-22T19:41:46.732Z - LOGIN SUCCESSFUL - /api/v1/login - POST - ::1
+[32minfo[39m: : 	INFO => 200 || 2023-11-22T20:03:13.699Z - LOGIN SUCCESSFUL - /api/v1/login - POST - ::1
+[32minfo[39m: : 	INFO => 200 || 2023-11-22T20:05:25.167Z - LOGIN SUCCESSFUL - /api/v1/login - POST - ::1
+[33mnotice[39m: : 	NOTICE => 2023-11-24T22:50:06.336Z - SERVER STARTED ON 127.0.0.1:3000
+[33mnotice[39m: : 	NOTICE => 2023-11-24T22:50:15.456Z - SERVER STARTED ON 127.0.0.1:3000
+[33mnotice[39m: : 	NOTICE => 2023-11-24T22:51:11.465Z - SERVER STARTED ON 127.0.0.1:3000
+[33mnotice[39m: : 	NOTICE => 2023-11-24T22:52:53.206Z - SERVER STARTED ON 127.0.0.1:3000
+[33mnotice[39m: : 	NOTICE => 2023-11-24T22:53:00.313Z - SERVER STARTED ON 127.0.0.1:3000
+[33mnotice[39m: : 	NOTICE => 2023-11-24T22:56:00.404Z - SERVER STARTED ON 127.0.0.1:3000
+[33mnotice[39m: : 	NOTICE => 2023-11-24T22:59:20.848Z - SERVER STARTED ON 127.0.0.1:3000
+[32minfo[39m: : 	INFO => 201 || 2023-11-24T23:00:47.284Z - NEW USER CREATED - /api/v1/register - POST - ::1
+[32minfo[39m: : 	INFO => 200 || 2023-11-24T23:01:28.865Z - LOGIN SUCCESSFUL - /api/v1/login - POST - ::1
+[33mnotice[39m: : 	NOTICE => 2023-11-24T23:04:46.420Z - SERVER STARTED ON 127.0.0.1:3000
+[33mnotice[39m: : 	NOTICE => 2023-11-24T23:10:26.011Z - SERVER STARTED ON 127.0.0.1:3000
+[33mnotice[39m: : 	NOTICE => 2023-11-24T23:10:45.608Z - SERVER STARTED ON 127.0.0.1:3000
+[33mnotice[39m: : 	NOTICE => 2023-11-24T23:17:23.035Z - SERVER STARTED ON 127.0.0.1:3000
+[33mnotice[39m: : 	NOTICE => 2023-11-24T23:18:51.904Z - SERVER STARTED ON 127.0.0.1:3000
+[33mnotice[39m: : 	NOTICE => 2023-11-24T23:19:16.404Z - SERVER STARTED ON 127.0.0.1:3000
+[33mnotice[39m: : 	NOTICE => 2023-11-24T23:35:12.464Z - SERVER STARTED ON 127.0.0.1:3000
+[33mwarn[39m: : 	WARN => 404 || 2023-11-24T23:39:11.779Z - Not Found - /api/v1/chats - POST - ::1
+[33mnotice[39m: : 	NOTICE => 2023-11-24T23:39:46.704Z - SERVER STARTED ON 127.0.0.1:3000
+[31merror[39m: : 	ERROR => 400 || 2023-11-24T23:39:55.618Z - CANNOT IDENTIFY BEARER TOKEN - /api/v1/chats - POST - ::1
+[33mnotice[39m: : 	NOTICE => 2023-11-24T23:48:56.472Z - SERVER STARTED ON 127.0.0.1:3000
+[33mnotice[39m: : 	NOTICE => 2023-11-24T23:49:52.484Z - SERVER STARTED ON 127.0.0.1:3000
+[33mnotice[39m: : 	NOTICE => 2023-11-24T23:51:12.805Z - SERVER STARTED ON 127.0.0.1:3000
+[33mnotice[39m: : 	NOTICE => 2023-11-24T23:51:56.541Z - SERVER STARTED ON 127.0.0.1:3000
+[33mnotice[39m: : 	NOTICE => 2023-11-24T23:52:26.959Z - SERVER STARTED ON 127.0.0.1:3000
+[33mnotice[39m: : 	NOTICE => 2023-11-24T23:53:26.099Z - SERVER STARTED ON 127.0.0.1:3000
+[33mnotice[39m: : 	NOTICE => 2023-11-24T23:54:07.140Z - SERVER STARTED ON 127.0.0.1:3000
+[33mnotice[39m: : 	NOTICE => 2023-11-24T23:59:57.049Z - SERVER STARTED ON 127.0.0.1:3000
+[33mnotice[39m: : 	NOTICE => 2023-11-25T00:00:42.005Z - SERVER STARTED ON 127.0.0.1:3000
+[33mnotice[39m: : 	NOTICE => 2023-11-25T00:02:24.272Z - SERVER STARTED ON 127.0.0.1:3000
+[31merror[39m: : 	ERROR => 400 || 2023-11-25T00:02:48.165Z - JWT EXPIRED - /api/v1/chats - POST - ::1
+[32minfo[39m: : 	INFO => 200 || 2023-11-25T00:03:13.532Z - LOGIN SUCCESSFUL - /api/v1/login - POST - ::1
+[33mnotice[39m: : 	NOTICE => 2023-11-25T00:09:44.201Z - SERVER STARTED ON 127.0.0.1:3000
+[33mnotice[39m: : 	NOTICE => 2023-11-25T00:20:02.069Z - SERVER STARTED ON 127.0.0.1:3000
+[33mnotice[39m: : 	NOTICE => 2023-11-25T00:21:04.124Z - SERVER STARTED ON 127.0.0.1:3000
+[33mnotice[39m: : 	NOTICE => 2023-11-25T00:21:29.690Z - SERVER STARTED ON 127.0.0.1:3000
+[33mnotice[39m: : 	NOTICE => 2023-11-25T00:41:14.309Z - SERVER STARTED ON 127.0.0.1:3000
+[33mnotice[39m: : 	NOTICE => 2023-11-25T00:41:22.034Z - SERVER STARTED ON 127.0.0.1:3000
+[33mnotice[39m: : 	NOTICE => 2023-11-25T00:46:23.897Z - SERVER STARTED ON 127.0.0.1:3000
+[33mnotice[39m: : 	NOTICE => 2023-11-25T00:46:32.235Z - SERVER STARTED ON 127.0.0.1:3000
+[33mnotice[39m: : 	NOTICE => 2023-11-25T00:46:41.064Z - SERVER STARTED ON 127.0.0.1:3000
+[33mnotice[39m: : 	NOTICE => 2023-11-25T00:48:40.015Z - SERVER STARTED ON 127.0.0.1:3000
+[33mnotice[39m: : 	NOTICE => 2023-11-25T00:51:41.845Z - SERVER STARTED ON 127.0.0.1:3000
+[33mnotice[39m: : 	NOTICE => 2023-11-25T00:51:53.797Z - SERVER STARTED ON 127.0.0.1:3000
+[33mnotice[39m: : 	NOTICE => 2023-11-25T00:52:05.389Z - SERVER STARTED ON 127.0.0.1:3000
+[33mnotice[39m: : 	NOTICE => 2023-11-25T00:52:56.796Z - SERVER STARTED ON 127.0.0.1:3000
+[31merror[39m: : 	ERROR => 400 || 2023-11-25T01:05:44.599Z - JWT EXPIRED - /api/v1/chats - POST - ::1
+[32minfo[39m: : 	INFO => 200 || 2023-11-25T01:07:49.062Z - LOGIN SUCCESSFUL - /api/v1/login - POST - ::1
+[33mnotice[39m: : 	NOTICE => 2023-11-25T01:12:38.994Z - SERVER STARTED ON 127.0.0.1:3000
+[33mnotice[39m: : 	NOTICE => 2023-11-25T01:20:56.063Z - SERVER STARTED ON 127.0.0.1:3000
+[33mnotice[39m: : 	NOTICE => 2023-11-25T01:21:15.786Z - SERVER STARTED ON 127.0.0.1:3000
+[33mnotice[39m: : 	NOTICE => 2023-11-25T01:24:11.434Z - SERVER STARTED ON 127.0.0.1:3000
+[33mnotice[39m: : 	NOTICE => 2023-11-25T01:39:07.471Z - SERVER STARTED ON 127.0.0.1:3000
+[33mnotice[39m: : 	NOTICE => 2023-11-25T01:42:00.074Z - SERVER STARTED ON 127.0.0.1:3000
+[31merror[39m: : 	ERROR => Unhandled Promise Rejection Cannot set headers after they are sent to the client
+[31merror[39m: : 	Promise statck trace
+[31merror[39m: : 	ERROR => Unhandled Promise Rejection Cannot set headers after they are sent to the client
+[31merror[39m: : 	Promise statck trace
+[31merror[39m: : 	ERROR => Unhandled Promise Rejection Cannot set headers after they are sent to the client
+[31merror[39m: : 	Promise statck trace
+[31merror[39m: : 	ERROR => Unhandled Promise Rejection Cannot set headers after they are sent to the client
+[31merror[39m: : 	Promise statck trace
+[31merror[39m: : 	ERROR => Unhandled Promise Rejection Cannot set headers after they are sent to the client
+[31merror[39m: : 	Promise statck trace
+[31merror[39m: : 	ERROR => Unhandled Promise Rejection Cannot set headers after they are sent to the client
+[31merror[39m: : 	Promise statck trace
+[31merror[39m: : 	ERROR => Unhandled Promise Rejection Cannot set headers after they are sent to the client
+[31merror[39m: : 	Promise statck trace
+[31merror[39m: : 	ERROR => Unhandled Promise Rejection Cannot set headers after they are sent to the client
+[31merror[39m: : 	Promise statck trace
+[31merror[39m: : 	ERROR => Unhandled Promise Rejection Cannot set headers after they are sent to the client
+[31merror[39m: : 	Promise statck trace
+[31merror[39m: : 	ERROR => Unhandled Promise Rejection Cannot set headers after they are sent to the client
+[31merror[39m: : 	Promise statck trace
+[31merror[39m: : 	ERROR => Unhandled Promise Rejection Cannot set headers after they are sent to the client
+[31merror[39m: : 	Promise statck trace
+[31merror[39m: : 	ERROR => Unhandled Promise Rejection Cannot set headers after they are sent to the client
+[31merror[39m: : 	Promise statck trace
+[31merror[39m: : 	ERROR => Unhandled Promise Rejection Cannot set headers after they are sent to the client
+[31merror[39m: : 	Promise statck trace
+[31merror[39m: : 	ERROR => Unhandled Promise Rejection Cannot set headers after they are sent to the client
+[31merror[39m: : 	Promise statck trace
+[31merror[39m: : 	ERROR => Unhandled Promise Rejection Cannot set headers after they are sent to the client
+[31merror[39m: : 	Promise statck trace
+[31merror[39m: : 	ERROR => Unhandled Promise Rejection Cannot set headers after they are sent to the client
+[31merror[39m: : 	Promise statck trace
+[31merror[39m: : 	ERROR => Unhandled Promise Rejection Cannot set headers after they are sent to the client
+[31merror[39m: : 	Promise statck trace
+[31merror[39m: : 	ERROR => Unhandled Promise Rejection Cannot set headers after they are sent to the client
+[31merror[39m: : 	Promise statck trace
+[31merror[39m: : 	ERROR => Unhandled Promise Rejection Cannot set headers after they are sent to the client
+[31merror[39m: : 	Promise statck trace
+[31merror[39m: : 	ERROR => Unhandled Promise Rejection Cannot set headers after they are sent to the client
+[31merror[39m: : 	Promise statck trace
+[31merror[39m: : 	ERROR => Unhandled Promise Rejection Cannot set headers after they are sent to the client
+[31merror[39m: : 	Promise statck trace
+[31merror[39m: : 	ERROR => Unhandled Promise Rejection Cannot set headers after they are sent to the client
+[31merror[39m: : 	Promise statck trace
+[31merror[39m: : 	ERROR => Unhandled Promise Rejection Cannot set headers after they are sent to the client
+[31merror[39m: : 	Promise statck trace
+[31merror[39m: : 	ERROR => Unhandled Promise Rejection Cannot set headers after they are sent to the client
+[31merror[39m: : 	Promise statck trace
+[33mnotice[39m: : 	NOTICE => 2023-11-25T02:07:45.694Z - SERVER STARTED ON 127.0.0.1:3000
+[31merror[39m: : 	ERROR => 400 || 2023-11-25T02:12:38.808Z - JWT EXPIRED - /api/v1/chats - GET - ::1
+[31merror[39m: : 	ERROR => 400 || 2023-11-25T02:13:18.452Z - JWT EXPIRED - /api/v1/chats - GET - ::1
+[31merror[39m: : 	ERROR => 400 || 2023-11-25T02:13:50.106Z - JWT EXPIRED - /api/v1/chats - GET - ::1
+[32minfo[39m: : 	INFO => 200 || 2023-11-25T02:14:13.603Z - LOGIN SUCCESSFUL - /api/v1/login - POST - ::1
+[31merror[39m: : 	ERROR => Unhandled Promise Rejection Cannot set headers after they are sent to the client
+[31merror[39m: : 	Promise statck trace
+[31merror[39m: : 	ERROR => Unhandled Promise Rejection Cannot set headers after they are sent to the client
+[31merror[39m: : 	Promise statck trace
+[31merror[39m: : 	ERROR => Unhandled Promise Rejection Cannot set headers after they are sent to the client
+[31merror[39m: : 	Promise statck trace
+[31merror[39m: : 	ERROR => Unhandled Promise Rejection Cannot set headers after they are sent to the client
+[31merror[39m: : 	Promise statck trace
+[31merror[39m: : 	ERROR => 400 || 2023-11-25T03:21:03.056Z - JWT EXPIRED - /api/v1/chats - GET - ::1
+[31merror[39m: : 	ERROR => 400 || 2023-11-25T03:21:14.122Z - JWT EXPIRED - /api/v1/chats - GET - ::1
+[32minfo[39m: : 	INFO => 200 || 2023-11-25T03:22:00.872Z - LOGIN SUCCESSFUL - /api/v1/login - POST - ::1
+[31merror[39m: : 	ERROR => Unhandled Promise Rejection Cannot set headers after they are sent to the client
+[31merror[39m: : 	Promise statck trace
+[31merror[39m: : 	ERROR => Unhandled Promise Rejection Cannot set headers after they are sent to the client
+[31merror[39m: : 	Promise statck trace
+[31merror[39m: : 	ERROR => Unhandled Promise Rejection Cannot set headers after they are sent to the client
+[31merror[39m: : 	Promise statck trace
+[31merror[39m: : 	ERROR => Unhandled Promise Rejection Cannot set headers after they are sent to the client
+[31merror[39m: : 	Promise statck trace
+[31merror[39m: : 	ERROR => Unhandled Promise Rejection Cannot set headers after they are sent to the client
+[31merror[39m: : 	Promise statck trace
+[31merror[39m: : 	ERROR => Unhandled Promise Rejection Cannot set headers after they are sent to the client
+[31merror[39m: : 	Promise statck trace
+[31merror[39m: : 	ERROR => Unhandled Promise Rejection Cannot set headers after they are sent to the client
+[31merror[39m: : 	Promise statck trace
+[31merror[39m: : 	ERROR => Unhandled Promise Rejection Cannot set headers after they are sent to the client
+[31merror[39m: : 	Promise statck trace
+[31merror[39m: : 	ERROR => Unhandled Promise Rejection Cannot set headers after they are sent to the client
+[31merror[39m: : 	Promise statck trace
+[31merror[39m: : 	ERROR => Unhandled Promise Rejection Cannot set headers after they are sent to the client
+[31merror[39m: : 	Promise statck trace
+[31merror[39m: : 	ERROR => Unhandled Promise Rejection Cannot set headers after they are sent to the client
+[31merror[39m: : 	Promise statck trace
+[31merror[39m: : 	ERROR => Unhandled Promise Rejection Cannot set headers after they are sent to the client
+[31merror[39m: : 	Promise statck trace
+[31merror[39m: : 	ERROR => Unhandled Promise Rejection Cannot set headers after they are sent to the client
+[31merror[39m: : 	Promise statck trace
+[31merror[39m: : 	ERROR => Unhandled Promise Rejection Cannot set headers after they are sent to the client
+[31merror[39m: : 	Promise statck trace
+[31merror[39m: : 	ERROR => Unhandled Promise Rejection Cannot set headers after they are sent to the client
+[31merror[39m: : 	Promise statck trace
+[31merror[39m: : 	ERROR => Unhandled Promise Rejection Cannot set headers after they are sent to the client
+[31merror[39m: : 	Promise statck trace
+[31merror[39m: : 	ERROR => Unhandled Promise Rejection Cannot set headers after they are sent to the client
+[31merror[39m: : 	Promise statck trace
+[31merror[39m: : 	ERROR => Unhandled Promise Rejection Cannot set headers after they are sent to the client
+[31merror[39m: : 	Promise statck trace
+[31merror[39m: : 	ERROR => Unhandled Promise Rejection Cannot set headers after they are sent to the client
+[31merror[39m: : 	Promise statck trace
+[31merror[39m: : 	ERROR => Unhandled Promise Rejection Cannot set headers after they are sent to the client
+[31merror[39m: : 	Promise statck trace
+[31merror[39m: : 	ERROR => Unhandled Promise Rejection Cannot set headers after they are sent to the client
+[31merror[39m: : 	Promise statck trace
+[31merror[39m: : 	ERROR => Unhandled Promise Rejection Cannot set headers after they are sent to the client
+[31merror[39m: : 	Promise statck trace
+[31merror[39m: : 	ERROR => Unhandled Promise Rejection Cannot set headers after they are sent to the client
+[31merror[39m: : 	Promise statck trace
+[31merror[39m: : 	ERROR => Unhandled Promise Rejection Cannot set headers after they are sent to the client
+[31merror[39m: : 	Promise statck trace
+[31merror[39m: : 	ERROR => Unhandled Promise Rejection Cannot set headers after they are sent to the client
+[31merror[39m: : 	Promise statck trace
+[31merror[39m: : 	ERROR => Unhandled Promise Rejection Cannot set headers after they are sent to the client
+[31merror[39m: : 	Promise statck trace
+[31merror[39m: : 	ERROR => Unhandled Promise Rejection Cannot set headers after they are sent to the client
+[31merror[39m: : 	Promise statck trace
+[31merror[39m: : 	ERROR => Unhandled Promise Rejection Cannot set headers after they are sent to the client
+[31merror[39m: : 	Promise statck trace
+[31merror[39m: : 	ERROR => Unhandled Promise Rejection Cannot set headers after they are sent to the client
+[31merror[39m: : 	Promise statck trace
+[31merror[39m: : 	ERROR => Unhandled Promise Rejection Cannot set headers after they are sent to the client
+[31merror[39m: : 	Promise statck trace
+[31merror[39m: : 	ERROR => Unhandled Promise Rejection Cannot set headers after they are sent to the client
+[31merror[39m: : 	Promise statck trace
+[31merror[39m: : 	ERROR => Unhandled Promise Rejection Cannot set headers after they are sent to the client
+[31merror[39m: : 	Promise statck trace
+[31merror[39m: : 	ERROR => Unhandled Promise Rejection Cannot set headers after they are sent to the client
+[31merror[39m: : 	Promise statck trace
+[31merror[39m: : 	ERROR => Unhandled Promise Rejection Cannot set headers after they are sent to the client
+[31merror[39m: : 	Promise statck trace
+[31merror[39m: : 	ERROR => Unhandled Promise Rejection Cannot set headers after they are sent to the client
+[31merror[39m: : 	Promise statck trace
+[31merror[39m: : 	ERROR => Unhandled Promise Rejection Cannot set headers after they are sent to the client
+[31merror[39m: : 	Promise statck trace
+[31merror[39m: : 	ERROR => Unhandled Promise Rejection Cannot set headers after they are sent to the client
+[31merror[39m: : 	Promise statck trace
+[31merror[39m: : 	ERROR => Unhandled Promise Rejection Cannot set headers after they are sent to the client
+[31merror[39m: : 	Promise statck trace
+[31merror[39m: : 	ERROR => Unhandled Promise Rejection Cannot set headers after they are sent to the client
+[31merror[39m: : 	Promise statck trace
+[31merror[39m: : 	ERROR => Unhandled Promise Rejection Cannot set headers after they are sent to the client
+[31merror[39m: : 	Promise statck trace
+[31merror[39m: : 	ERROR => Unhandled Promise Rejection Cannot set headers after they are sent to the client
+[31merror[39m: : 	Promise statck trace
+[31merror[39m: : 	ERROR => 400 || 2023-11-25T04:22:03.867Z - JWT EXPIRED - /api/v1/chats - GET - ::1
+[31merror[39m: : 	ERROR => 400 || 2023-11-25T04:22:09.972Z - JWT EXPIRED - /api/v1/chats - GET - ::1
+[31merror[39m: : 	ERROR => 400 || 2023-11-25T04:22:27.178Z - JWT EXPIRED - /api/v1/chats - GET - ::1
+[31merror[39m: : 	ERROR => 400 || 2023-11-25T04:23:01.775Z - JWT EXPIRED - /api/v1/chats - GET - ::1
+[31merror[39m: : 	ERROR => 400 || 2023-11-25T04:23:07.373Z - JWT EXPIRED - /api/v1/chats - GET - ::1
+[31merror[39m: : 	ERROR => 400 || 2023-11-25T04:23:43.771Z - JWT EXPIRED - /api/v1/chats - GET - ::1
+[31merror[39m: : 	ERROR => 400 || 2023-11-25T04:23:47.595Z - JWT EXPIRED - /api/v1/chats - GET - ::1
+[31merror[39m: : 	ERROR => 400 || 2023-11-25T04:25:22.730Z - JWT EXPIRED - /api/v1/chats - GET - ::1
+[31merror[39m: : 	ERROR => 400 || 2023-11-25T04:25:38.092Z - JWT EXPIRED - /api/v1/chats - GET - ::1
+[31merror[39m: : 	ERROR => 400 || 2023-11-25T04:25:58.793Z - JWT EXPIRED - /api/v1/chats - GET - ::1
+[31merror[39m: : 	ERROR => 400 || 2023-11-25T04:26:03.283Z - JWT EXPIRED - /api/v1/chats - GET - ::1
+[31merror[39m: : 	ERROR => 400 || 2023-11-25T04:26:17.607Z - JWT EXPIRED - /api/v1/chats - GET - ::1
+[31merror[39m: : 	ERROR => 400 || 2023-11-25T04:26:20.240Z - JWT EXPIRED - /api/v1/chats - GET - ::1
+[31merror[39m: : 	ERROR => 400 || 2023-11-25T04:26:21.511Z - JWT EXPIRED - /api/v1/chats - GET - ::1
+[31merror[39m: : 	ERROR => 400 || 2023-11-25T04:26:22.462Z - JWT EXPIRED - /api/v1/chats - GET - ::1
+[31merror[39m: : 	ERROR => 400 || 2023-11-25T04:26:23.286Z - JWT EXPIRED - /api/v1/chats - GET - ::1
+[31merror[39m: : 	ERROR => 400 || 2023-11-25T04:26:24.093Z - JWT EXPIRED - /api/v1/chats - GET - ::1
+[31merror[39m: : 	ERROR => 400 || 2023-11-25T04:26:25.203Z - JWT EXPIRED - /api/v1/chats - GET - ::1
+[31merror[39m: : 	ERROR => 400 || 2023-11-25T04:26:27.059Z - JWT EXPIRED - /api/v1/chats - GET - ::1
+[31merror[39m: : 	ERROR => 400 || 2023-11-25T04:26:30.982Z - JWT EXPIRED - /api/v1/chats - GET - ::1
+[31merror[39m: : 	ERROR => 400 || 2023-11-25T04:26:36.424Z - JWT EXPIRED - /api/v1/chats - GET - ::1
+[31merror[39m: : 	ERROR => 400 || 2023-11-25T04:26:46.308Z - JWT EXPIRED - /api/v1/chats - GET - ::1
+[31merror[39m: : 	ERROR => 400 || 2023-11-25T04:26:49.361Z - JWT EXPIRED - /api/v1/chats - GET - ::1
+[31merror[39m: : 	ERROR => 400 || 2023-11-25T04:27:07.083Z - JWT EXPIRED - /api/v1/chats - GET - ::1
+[32minfo[39m: : 	INFO => 200 || 2023-11-25T04:27:48.672Z - LOGIN SUCCESSFUL - /api/v1/login - POST - ::1
+[31merror[39m: : 	ERROR => Unhandled Promise Rejection Cannot set headers after they are sent to the client
+[31merror[39m: : 	Promise statck trace
+[31merror[39m: : 	ERROR => Unhandled Promise Rejection Cannot set headers after they are sent to the client
+[31merror[39m: : 	Promise statck trace
+[31merror[39m: : 	ERROR => Unhandled Promise Rejection Cannot set headers after they are sent to the client
+[31merror[39m: : 	Promise statck trace
+[31merror[39m: : 	ERROR => Unhandled Promise Rejection Cannot set headers after they are sent to the client
+[31merror[39m: : 	Promise statck trace
+[31merror[39m: : 	ERROR => Unhandled Promise Rejection Cannot set headers after they are sent to the client
+[31merror[39m: : 	Promise statck trace
+[31merror[39m: : 	ERROR => Unhandled Promise Rejection Cannot set headers after they are sent to the client
+[31merror[39m: : 	Promise statck trace
+[31merror[39m: : 	ERROR => Unhandled Promise Rejection Cannot set headers after they are sent to the client
+[31merror[39m: : 	Promise statck trace
+[31merror[39m: : 	ERROR => Unhandled Promise Rejection Cannot set headers after they are sent to the client
+[31merror[39m: : 	Promise statck trace
+[31merror[39m: : 	ERROR => 400 || 2023-11-25T04:34:42.538Z - CANNOT IDENTIFY BEARER TOKEN - /api/v1/chat/undefined/undefined - GET - ::1
+[31merror[39m: : 	ERROR => 400 || 2023-11-25T04:34:42.558Z - CANNOT IDENTIFY BEARER TOKEN - /api/v1/chat/undefined/undefined - GET - ::1
+[31merror[39m: : 	ERROR => 400 || 2023-11-25T04:35:16.439Z - CANNOT IDENTIFY BEARER TOKEN - /api/v1/chat/undefined/undefined - GET - ::1
+[31merror[39m: : 	ERROR => 400 || 2023-11-25T04:35:32.829Z - CANNOT IDENTIFY BEARER TOKEN - /api/v1/chat/undefined/undefined - GET - ::1
+[31merror[39m: : 	ERROR => 400 || 2023-11-25T04:35:48.249Z - CANNOT IDENTIFY BEARER TOKEN - /api/v1/chat/4/1700874793129 - GET - ::1
+[31merror[39m: : 	ERROR => 400 || 2023-11-25T04:36:03.581Z - CANNOT IDENTIFY BEARER TOKEN - /api/v1/chat/4/1700874793129 - GET - ::1
+[31merror[39m: : 	ERROR => Unhandled Promise Rejection Cannot set headers after they are sent to the client
+[31merror[39m: : 	Promise statck trace
+[31merror[39m: : 	ERROR => 400 || 2023-11-25T04:36:03.788Z - CANNOT IDENTIFY BEARER TOKEN - /api/v1/chat/4/1700874793129 - GET - ::1
+[31merror[39m: : 	ERROR => Unhandled Promise Rejection Cannot set headers after they are sent to the client
+[31merror[39m: : 	Promise statck trace
+[31merror[39m: : 	ERROR => Unhandled Promise Rejection Cannot set headers after they are sent to the client
+[31merror[39m: : 	Promise statck trace
+[33mnotice[39m: : 	NOTICE => 2023-11-25T04:39:11.354Z - SERVER STARTED ON 127.0.0.1:3000
+[31merror[39m: : 	ERROR => Unhandled Promise Rejection Cannot set headers after they are sent to the client
+[31merror[39m: : 	Promise statck trace
+[31merror[39m: : 	ERROR => Unhandled Promise Rejection Cannot set headers after they are sent to the client
+[31merror[39m: : 	Promise statck trace
+[33mnotice[39m: : 	NOTICE => 2023-11-25T04:40:42.205Z - SERVER STARTED ON 127.0.0.1:3000
+[31merror[39m: : 	ERROR => Unhandled Promise Rejection Cannot set headers after they are sent to the client
+[31merror[39m: : 	Promise statck trace
+[33mnotice[39m: : 	NOTICE => 2023-11-25T04:41:13.772Z - SERVER STARTED ON 127.0.0.1:3000
+[31merror[39m: : 	ERROR => Unhandled Promise Rejection Cannot set headers after they are sent to the client
+[31merror[39m: : 	Promise statck trace
+[33mnotice[39m: : 	NOTICE => 2023-11-25T04:42:07.811Z - SERVER STARTED ON 127.0.0.1:3000
+[31merror[39m: : 	ERROR => Unhandled Promise Rejection Cannot set headers after they are sent to the client
+[31merror[39m: : 	Promise statck trace
+[31merror[39m: : 	ERROR => Unhandled Promise Rejection Cannot set headers after they are sent to the client
+[31merror[39m: : 	Promise statck trace
+[31merror[39m: : 	ERROR => Unhandled Promise Rejection Cannot set headers after they are sent to the client
+[31merror[39m: : 	Promise statck trace
+[33mnotice[39m: : 	NOTICE => 2023-11-25T04:44:55.750Z - SERVER STARTED ON 127.0.0.1:3000
+[31merror[39m: : 	ERROR => Unhandled Promise Rejection Cannot set headers after they are sent to the client
+[31merror[39m: : 	Promise statck trace
+[33mnotice[39m: : 	NOTICE => 2023-11-25T04:45:39.233Z - SERVER STARTED ON 127.0.0.1:3000
+[33mwarn[39m: : 	WARN => 404 || 2023-11-25T04:45:42.359Z - Not Found - /api/v1/chat/4/1700874793129 - GET - ::1
+[31merror[39m: : 	ERROR => Unhandled Promise Rejection Cannot set headers after they are sent to the client
+[31merror[39m: : 	Promise statck trace
+[33mwarn[39m: : 	WARN => 404 || 2023-11-25T04:45:42.861Z - Not Found - /api/v1/chat/4/1700874793129 - GET - ::1
+[33mwarn[39m: : 	WARN => 404 || 2023-11-25T04:45:52.417Z - Not Found - /api/v1/chat/4/1700874793129 - GET - ::1
+[31merror[39m: : 	ERROR => Unhandled Promise Rejection Cannot set headers after they are sent to the client
+[31merror[39m: : 	Promise statck trace
+[33mwarn[39m: : 	WARN => 404 || 2023-11-25T04:45:52.602Z - Not Found - /api/v1/chat/4/1700874793129 - GET - ::1
+[33mnotice[39m: : 	NOTICE => 2023-11-25T04:46:01.318Z - SERVER STARTED ON 127.0.0.1:3000
+[31merror[39m: : 	ERROR => Unhandled Promise Rejection Cannot set headers after they are sent to the client
+[31merror[39m: : 	Promise statck trace
+[33mnotice[39m: : 	NOTICE => 2023-11-25T04:47:12.121Z - SERVER STARTED ON 127.0.0.1:3000
+[31merror[39m: : 	ERROR => Unhandled Promise Rejection Cannot set headers after they are sent to the client
+[31merror[39m: : 	Promise statck trace
+[33mnotice[39m: : 	NOTICE => 2023-11-25T04:47:56.475Z - SERVER STARTED ON 127.0.0.1:3000
+[31merror[39m: : 	ERROR => Unhandled Promise Rejection Cannot set headers after they are sent to the client
+[31merror[39m: : 	Promise statck trace
+[33mnotice[39m: : 	NOTICE => 2023-11-25T04:49:28.909Z - SERVER STARTED ON 127.0.0.1:3000
+[31merror[39m: : 	ERROR => Unhandled Promise Rejection Cannot set headers after they are sent to the client
+[31merror[39m: : 	Promise statck trace
+[31merror[39m: : 	ERROR => Unhandled Promise Rejection Cannot set headers after they are sent to the client
+[31merror[39m: : 	Promise statck trace
+[31merror[39m: : 	ERROR => Unhandled Promise Rejection Cannot set headers after they are sent to the client
+[31merror[39m: : 	Promise statck trace
+[31merror[39m: : 	ERROR => Unhandled Promise Rejection Cannot set headers after they are sent to the client
+[31merror[39m: : 	Promise statck trace
+[31merror[39m: : 	ERROR => Unhandled Promise Rejection Cannot set headers after they are sent to the client
+[31merror[39m: : 	Promise statck trace
+[31merror[39m: : 	ERROR => Unhandled Promise Rejection Cannot set headers after they are sent to the client
+[31merror[39m: : 	Promise statck trace
+[31merror[39m: : 	ERROR => Unhandled Promise Rejection Cannot set headers after they are sent to the client
+[31merror[39m: : 	Promise statck trace
+[31merror[39m: : 	ERROR => Unhandled Promise Rejection Cannot set headers after they are sent to the client
+[31merror[39m: : 	Promise statck trace
+[31merror[39m: : 	ERROR => Unhandled Promise Rejection Cannot set headers after they are sent to the client
+[31merror[39m: : 	Promise statck trace
+[31merror[39m: : 	ERROR => Unhandled Promise Rejection Cannot set headers after they are sent to the client
+[31merror[39m: : 	Promise statck trace
+[31merror[39m: : 	ERROR => Unhandled Promise Rejection Cannot set headers after they are sent to the client
+[31merror[39m: : 	Promise statck trace
+[31merror[39m: : 	ERROR => Unhandled Promise Rejection Cannot set headers after they are sent to the client
+[31merror[39m: : 	Promise statck trace
+[31merror[39m: : 	ERROR => Unhandled Promise Rejection Cannot set headers after they are sent to the client
+[31merror[39m: : 	Promise statck trace
+[31merror[39m: : 	ERROR => Unhandled Promise Rejection Cannot set headers after they are sent to the client
+[31merror[39m: : 	Promise statck trace
+[31merror[39m: : 	ERROR => Unhandled Promise Rejection Cannot set headers after they are sent to the client
+[31merror[39m: : 	Promise statck trace
+[31merror[39m: : 	ERROR => Unhandled Promise Rejection Cannot set headers after they are sent to the client
+[31merror[39m: : 	Promise statck trace
+[31merror[39m: : 	ERROR => Unhandled Promise Rejection Cannot set headers after they are sent to the client
+[31merror[39m: : 	Promise statck trace
+[31merror[39m: : 	ERROR => Unhandled Promise Rejection Cannot set headers after they are sent to the client
+[31merror[39m: : 	Promise statck trace
+[31merror[39m: : 	ERROR => Unhandled Promise Rejection Cannot set headers after they are sent to the client
+[31merror[39m: : 	Promise statck trace
+[31merror[39m: : 	ERROR => Unhandled Promise Rejection Cannot set headers after they are sent to the client
+[31merror[39m: : 	Promise statck trace
+[31merror[39m: : 	ERROR => Unhandled Promise Rejection Cannot set headers after they are sent to the client
+[31merror[39m: : 	Promise statck trace
+[31merror[39m: : 	ERROR => Unhandled Promise Rejection Cannot set headers after they are sent to the client
+[31merror[39m: : 	Promise statck trace
+[31merror[39m: : 	ERROR => Unhandled Promise Rejection Cannot set headers after they are sent to the client
+[31merror[39m: : 	Promise statck trace
+[31merror[39m: : 	ERROR => Unhandled Promise Rejection Cannot set headers after they are sent to the client
+[31merror[39m: : 	Promise statck trace
+[31merror[39m: : 	ERROR => Unhandled Promise Rejection Cannot set headers after they are sent to the client
+[31merror[39m: : 	Promise statck trace
+[31merror[39m: : 	ERROR => Unhandled Promise Rejection Cannot set headers after they are sent to the client
+[31merror[39m: : 	Promise statck trace
+[31merror[39m: : 	ERROR => Unhandled Promise Rejection Cannot set headers after they are sent to the client
+[31merror[39m: : 	Promise statck trace
+[31merror[39m: : 	ERROR => Unhandled Promise Rejection Cannot set headers after they are sent to the client
+[31merror[39m: : 	Promise statck trace
+[31merror[39m: : 	ERROR => Unhandled Promise Rejection Cannot set headers after they are sent to the client
+[31merror[39m: : 	Promise statck trace
+[31merror[39m: : 	ERROR => Unhandled Promise Rejection Cannot set headers after they are sent to the client
+[31merror[39m: : 	Promise statck trace
+[31merror[39m: : 	ERROR => Unhandled Promise Rejection Cannot set headers after they are sent to the client
+[31merror[39m: : 	Promise statck trace
+[31merror[39m: : 	ERROR => Unhandled Promise Rejection Cannot set headers after they are sent to the client
+[31merror[39m: : 	Promise statck trace
+[31merror[39m: : 	ERROR => Unhandled Promise Rejection Cannot set headers after they are sent to the client
+[31merror[39m: : 	Promise statck trace
+[31merror[39m: : 	ERROR => Unhandled Promise Rejection Cannot set headers after they are sent to the client
+[31merror[39m: : 	Promise statck trace
+[31merror[39m: : 	ERROR => Unhandled Promise Rejection Cannot set headers after they are sent to the client
+[31merror[39m: : 	Promise statck trace
+[31merror[39m: : 	ERROR => Unhandled Promise Rejection Cannot set headers after they are sent to the client
+[31merror[39m: : 	Promise statck trace
+[31merror[39m: : 	ERROR => Unhandled Promise Rejection Cannot set headers after they are sent to the client
+[31merror[39m: : 	Promise statck trace
+[31merror[39m: : 	ERROR => Unhandled Promise Rejection Cannot set headers after they are sent to the client
+[31merror[39m: : 	Promise statck trace
+[31merror[39m: : 	ERROR => Unhandled Promise Rejection Cannot set headers after they are sent to the client
+[31merror[39m: : 	Promise statck trace
+[31merror[39m: : 	ERROR => Unhandled Promise Rejection Cannot set headers after they are sent to the client
+[31merror[39m: : 	Promise statck trace
+[31merror[39m: : 	ERROR => Unhandled Promise Rejection Cannot set headers after they are sent to the client
+[31merror[39m: : 	Promise statck trace
+[31merror[39m: : 	ERROR => Unhandled Promise Rejection Cannot set headers after they are sent to the client
+[31merror[39m: : 	Promise statck trace
+[31merror[39m: : 	ERROR => Unhandled Promise Rejection Cannot set headers after they are sent to the client
+[31merror[39m: : 	Promise statck trace
+[31merror[39m: : 	ERROR => Unhandled Promise Rejection Cannot set headers after they are sent to the client
+[31merror[39m: : 	Promise statck trace
+[31merror[39m: : 	ERROR => Unhandled Promise Rejection Cannot set headers after they are sent to the client
+[31merror[39m: : 	Promise statck trace
+[31merror[39m: : 	ERROR => Unhandled Promise Rejection Cannot set headers after they are sent to the client
+[31merror[39m: : 	Promise statck trace
+[31merror[39m: : 	ERROR => Unhandled Promise Rejection Cannot set headers after they are sent to the client
+[31merror[39m: : 	Promise statck trace
+[31merror[39m: : 	ERROR => Unhandled Promise Rejection Cannot set headers after they are sent to the client
+[31merror[39m: : 	Promise statck trace
+[31merror[39m: : 	ERROR => Unhandled Promise Rejection Cannot set headers after they are sent to the client
+[31merror[39m: : 	Promise statck trace
+[31merror[39m: : 	ERROR => Unhandled Promise Rejection Cannot set headers after they are sent to the client
+[31merror[39m: : 	Promise statck trace
+[31merror[39m: : 	ERROR => Unhandled Promise Rejection Cannot set headers after they are sent to the client
+[31merror[39m: : 	Promise statck trace
+[31merror[39m: : 	ERROR => Unhandled Promise Rejection Cannot set headers after they are sent to the client
+[31merror[39m: : 	Promise statck trace
+[31merror[39m: : 	ERROR => Unhandled Promise Rejection Cannot set headers after they are sent to the client
+[31merror[39m: : 	Promise statck trace
+[31merror[39m: : 	ERROR => Unhandled Promise Rejection Cannot set headers after they are sent to the client
+[31merror[39m: : 	Promise statck trace
+[31merror[39m: : 	ERROR => Unhandled Promise Rejection Cannot set headers after they are sent to the client
+[31merror[39m: : 	Promise statck trace
+[31merror[39m: : 	ERROR => Unhandled Promise Rejection Cannot set headers after they are sent to the client
+[31merror[39m: : 	Promise statck trace
+[31merror[39m: : 	ERROR => Unhandled Promise Rejection Cannot set headers after they are sent to the client
+[31merror[39m: : 	Promise statck trace
+[31merror[39m: : 	ERROR => Unhandled Promise Rejection Cannot set headers after they are sent to the client
+[31merror[39m: : 	Promise statck trace
+[31merror[39m: : 	ERROR => Unhandled Promise Rejection Cannot set headers after they are sent to the client
+[31merror[39m: : 	Promise statck trace
+[31merror[39m: : 	ERROR => Unhandled Promise Rejection Cannot set headers after they are sent to the client
+[31merror[39m: : 	Promise statck trace
+[31merror[39m: : 	ERROR => Unhandled Promise Rejection Cannot set headers after they are sent to the client
+[31merror[39m: : 	Promise statck trace
+[31merror[39m: : 	ERROR => Unhandled Promise Rejection Cannot set headers after they are sent to the client
+[31merror[39m: : 	Promise statck trace
+[31merror[39m: : 	ERROR => Unhandled Promise Rejection Cannot set headers after they are sent to the client
+[31merror[39m: : 	Promise statck trace
+[31merror[39m: : 	ERROR => Unhandled Promise Rejection Cannot set headers after they are sent to the client
+[31merror[39m: : 	Promise statck trace
+[31merror[39m: : 	ERROR => Unhandled Promise Rejection Cannot set headers after they are sent to the client
+[31merror[39m: : 	Promise statck trace
+[31merror[39m: : 	ERROR => Unhandled Promise Rejection Cannot set headers after they are sent to the client
+[31merror[39m: : 	Promise statck trace
+[31merror[39m: : 	ERROR => Unhandled Promise Rejection Cannot set headers after they are sent to the client
+[31merror[39m: : 	Promise statck trace
+[31merror[39m: : 	ERROR => Unhandled Promise Rejection Cannot set headers after they are sent to the client
+[31merror[39m: : 	Promise statck trace
+[31merror[39m: : 	ERROR => Unhandled Promise Rejection Cannot set headers after they are sent to the client
+[31merror[39m: : 	Promise statck trace
+[31merror[39m: : 	ERROR => Unhandled Promise Rejection Cannot set headers after they are sent to the client
+[31merror[39m: : 	Promise statck trace
+[31merror[39m: : 	ERROR => 400 || 2023-11-25T05:29:07.069Z - JWT EXPIRED - /api/v1/chats - GET - ::1
+[31merror[39m: : 	ERROR => 400 || 2023-11-25T05:29:07.182Z - JWT EXPIRED - /api/v1/chat/undefined/undefined - GET - ::1
+[32minfo[39m: : 	INFO => 200 || 2023-11-25T17:19:25.995Z - LOGIN SUCCESSFUL - /api/v1/login - POST - ::1
+[31merror[39m: : 	ERROR => Unhandled Promise Rejection Cannot set headers after they are sent to the client
+[31merror[39m: : 	Promise statck trace
+[31merror[39m: : 	ERROR => Unhandled Promise Rejection Cannot set headers after they are sent to the client
+[31merror[39m: : 	Promise statck trace
+[31merror[39m: : 	ERROR => Unhandled Promise Rejection Cannot set headers after they are sent to the client
+[31merror[39m: : 	Promise statck trace
+[31merror[39m: : 	ERROR => Unhandled Promise Rejection Cannot set headers after they are sent to the client
+[31merror[39m: : 	Promise statck trace
+[31merror[39m: : 	ERROR => Unhandled Promise Rejection Cannot set headers after they are sent to the client
+[31merror[39m: : 	Promise statck trace
+[31merror[39m: : 	ERROR => Unhandled Promise Rejection Cannot set headers after they are sent to the client
+[31merror[39m: : 	Promise statck trace
+[32minfo[39m: : 	INFO => 201 || 2023-11-25T17:22:39.946Z - NEW USER CREATED - /api/v1/register - POST - ::1
+[32minfo[39m: : 	INFO => 200 || 2023-11-25T17:23:18.831Z - LOGIN SUCCESSFUL - /api/v1/login - POST - ::1
+[31merror[39m: : 	ERROR => Unhandled Promise Rejection Cannot set headers after they are sent to the client
+[31merror[39m: : 	Promise statck trace
+[31merror[39m: : 	ERROR => Unhandled Promise Rejection Cannot set headers after they are sent to the client
+[31merror[39m: : 	Promise statck trace
+[31merror[39m: : 	ERROR => Unhandled Promise Rejection Cannot set headers after they are sent to the client
+[31merror[39m: : 	Promise statck trace
+[31merror[39m: : 	ERROR => Unhandled Promise Rejection Cannot set headers after they are sent to the client
+[31merror[39m: : 	Promise statck trace
+[32minfo[39m: : 	INFO => 200 || 2023-11-25T17:25:52.912Z - LOGIN SUCCESSFUL - /api/v1/login - POST - ::1
+[31merror[39m: : 	ERROR => Unhandled Promise Rejection Cannot set headers after they are sent to the client
+[31merror[39m: : 	Promise statck trace
+[31merror[39m: : 	ERROR => Unhandled Promise Rejection Cannot set headers after they are sent to the client
+[31merror[39m: : 	Promise statck trace
+[31merror[39m: : 	ERROR => Unhandled Promise Rejection Cannot set headers after they are sent to the client
+[31merror[39m: : 	Promise statck trace
+[31merror[39m: : 	ERROR => Unhandled Promise Rejection Cannot set headers after they are sent to the client
+[31merror[39m: : 	Promise statck trace
+[31merror[39m: : 	ERROR => Unhandled Promise Rejection Cannot set headers after they are sent to the client
+[31merror[39m: : 	Promise statck trace
+[32minfo[39m: : 	INFO => 200 || 2023-11-25T17:27:26.150Z - LOGIN SUCCESSFUL - /api/v1/login - POST - ::1
+[31merror[39m: : 	ERROR => Unhandled Promise Rejection Cannot set headers after they are sent to the client
+[31merror[39m: : 	Promise statck trace
+[31merror[39m: : 	ERROR => Unhandled Promise Rejection Cannot set headers after they are sent to the client
+[31merror[39m: : 	Promise statck trace
+[31merror[39m: : 	ERROR => Unhandled Promise Rejection Cannot set headers after they are sent to the client
+[31merror[39m: : 	Promise statck trace
+[31merror[39m: : 	ERROR => Unhandled Promise Rejection Cannot set headers after they are sent to the client
+[31merror[39m: : 	Promise statck trace
+[32minfo[39m: : 	INFO => 200 || 2023-11-25T17:41:05.117Z - LOGIN SUCCESSFUL - /api/v1/login - POST - ::1
+[31merror[39m: : 	ERROR => Unhandled Promise Rejection Cannot set headers after they are sent to the client
+[31merror[39m: : 	Promise statck trace
+[31merror[39m: : 	ERROR => Unhandled Promise Rejection Cannot set headers after they are sent to the client
+[31merror[39m: : 	Promise statck trace
+[31merror[39m: : 	ERROR => Unhandled Promise Rejection Cannot set headers after they are sent to the client
+[31merror[39m: : 	Promise statck trace
+[31merror[39m: : 	ERROR => Unhandled Promise Rejection Cannot set headers after they are sent to the client
+[31merror[39m: : 	Promise statck trace
+[31merror[39m: : 	ERROR => Unhandled Promise Rejection Cannot set headers after they are sent to the client
+[31merror[39m: : 	Promise statck trace
+[31merror[39m: : 	ERROR => Unhandled Promise Rejection Cannot set headers after they are sent to the client
+[31merror[39m: : 	Promise statck trace
+[31merror[39m: : 	ERROR => Unhandled Promise Rejection Cannot set headers after they are sent to the client
+[31merror[39m: : 	Promise statck trace
+[31merror[39m: : 	ERROR => Unhandled Promise Rejection Cannot set headers after they are sent to the client
+[31merror[39m: : 	Promise statck trace
+[31merror[39m: : 	ERROR => Unhandled Promise Rejection Cannot set headers after they are sent to the client
+[31merror[39m: : 	Promise statck trace
+[31merror[39m: : 	ERROR => Unhandled Promise Rejection Cannot set headers after they are sent to the client
+[31merror[39m: : 	Promise statck trace
+[31merror[39m: : 	ERROR => Unhandled Promise Rejection Cannot set headers after they are sent to the client
+[31merror[39m: : 	Promise statck trace
+[31merror[39m: : 	ERROR => Unhandled Promise Rejection Cannot set headers after they are sent to the client
+[31merror[39m: : 	Promise statck trace
+[31merror[39m: : 	ERROR => Unhandled Promise Rejection Cannot set headers after they are sent to the client
+[31merror[39m: : 	Promise statck trace
+[31merror[39m: : 	ERROR => Unhandled Promise Rejection Cannot set headers after they are sent to the client
+[31merror[39m: : 	Promise statck trace
+[31merror[39m: : 	ERROR => Unhandled Promise Rejection Cannot set headers after they are sent to the client
+[31merror[39m: : 	Promise statck trace
+[31merror[39m: : 	ERROR => Unhandled Promise Rejection Cannot set headers after they are sent to the client
+[31merror[39m: : 	Promise statck trace
+[31merror[39m: : 	ERROR => Unhandled Promise Rejection Cannot set headers after they are sent to the client
+[31merror[39m: : 	Promise statck trace
+[31merror[39m: : 	ERROR => Unhandled Promise Rejection Cannot set headers after they are sent to the client
+[31merror[39m: : 	Promise statck trace
+[31merror[39m: : 	ERROR => Unhandled Promise Rejection Cannot set headers after they are sent to the client
+[31merror[39m: : 	Promise statck trace
+[31merror[39m: : 	ERROR => Unhandled Promise Rejection Cannot set headers after they are sent to the client
+[31merror[39m: : 	Promise statck trace
+[32minfo[39m: : 	INFO => 200 || 2023-11-25T18:33:14.466Z - LOGIN SUCCESSFUL - /api/v1/login - POST - ::1
+[31merror[39m: : 	ERROR => Unhandled Promise Rejection Cannot set headers after they are sent to the client
+[31merror[39m: : 	Promise statck trace
+[31merror[39m: : 	ERROR => Unhandled Promise Rejection Cannot set headers after they are sent to the client
+[31merror[39m: : 	Promise statck trace
+[31merror[39m: : 	ERROR => Unhandled Promise Rejection Cannot set headers after they are sent to the client
+[31merror[39m: : 	Promise statck trace
+[31merror[39m: : 	ERROR => Unhandled Promise Rejection Cannot set headers after they are sent to the client
+[31merror[39m: : 	Promise statck trace
+[31merror[39m: : 	ERROR => Unhandled Promise Rejection Cannot set headers after they are sent to the client
+[31merror[39m: : 	Promise statck trace
+[31merror[39m: : 	ERROR => Unhandled Promise Rejection Cannot set headers after they are sent to the client
+[31merror[39m: : 	Promise statck trace
+[32minfo[39m: : 	INFO => 200 || 2023-11-25T18:42:55.569Z - LOGIN SUCCESSFUL - /api/v1/login - POST - ::1
+[31merror[39m: : 	ERROR => Unhandled Promise Rejection Cannot set headers after they are sent to the client
+[31merror[39m: : 	Promise statck trace
+[31merror[39m: : 	ERROR => Unhandled Promise Rejection Cannot set headers after they are sent to the client
+[31merror[39m: : 	Promise statck trace
+[31merror[39m: : 	ERROR => Unhandled Promise Rejection Cannot set headers after they are sent to the client
+[31merror[39m: : 	Promise statck trace
+[31merror[39m: : 	ERROR => Unhandled Promise Rejection Cannot set headers after they are sent to the client
+[31merror[39m: : 	Promise statck trace
+[31merror[39m: : 	ERROR => Unhandled Promise Rejection Cannot set headers after they are sent to the client
+[31merror[39m: : 	Promise statck trace
+[31merror[39m: : 	ERROR => Unhandled Promise Rejection Cannot set headers after they are sent to the client
+[31merror[39m: : 	Promise statck trace
+[33mnotice[39m: : 	NOTICE => 2023-11-25T19:04:23.023Z - SERVER STARTED ON 127.0.0.1:3000
+[31merror[39m: : 	ERROR => Unhandled Promise Rejection Cannot set headers after they are sent to the client
+[31merror[39m: : 	Promise statck trace
+[31merror[39m: : 	ERROR => Unhandled Promise Rejection Cannot set headers after they are sent to the client
+[31merror[39m: : 	Promise statck trace
+[31merror[39m: : 	ERROR => Unhandled Promise Rejection Cannot set headers after they are sent to the client
+[31merror[39m: : 	Promise statck trace
+[31merror[39m: : 	ERROR => Unhandled Promise Rejection Cannot set headers after they are sent to the client
+[31merror[39m: : 	Promise statck trace
+[31merror[39m: : 	ERROR => Unhandled Promise Rejection Cannot set headers after they are sent to the client
+[31merror[39m: : 	Promise statck trace
+[31merror[39m: : 	ERROR => Unhandled Promise Rejection Cannot set headers after they are sent to the client
+[31merror[39m: : 	Promise statck trace
+[31merror[39m: : 	ERROR => Unhandled Promise Rejection Cannot set headers after they are sent to the client
+[31merror[39m: : 	Promise statck trace
+[32minfo[39m: : 	INFO => 200 || 2023-11-25T20:12:33.030Z - LOGIN SUCCESSFUL - /api/v1/login - POST - ::1
+[31merror[39m: : 	ERROR => Unhandled Promise Rejection Cannot set headers after they are sent to the client
+[31merror[39m: : 	Promise statck trace
+[31merror[39m: : 	ERROR => Unhandled Promise Rejection Cannot set headers after they are sent to the client
+[31merror[39m: : 	Promise statck trace
+[31merror[39m: : 	ERROR => Unhandled Promise Rejection Cannot set headers after they are sent to the client
+[31merror[39m: : 	Promise statck trace
+[31merror[39m: : 	ERROR => Unhandled Promise Rejection Cannot set headers after they are sent to the client
+[31merror[39m: : 	Promise statck trace
+[31merror[39m: : 	ERROR => Unhandled Promise Rejection Cannot set headers after they are sent to the client
+[31merror[39m: : 	Promise statck trace
+[32minfo[39m: : 	INFO => 200 || 2023-11-25T21:11:48.865Z - LOGIN SUCCESSFUL - /api/v1/login - POST - ::1
+[31merror[39m: : 	ERROR => Unhandled Promise Rejection Cannot set headers after they are sent to the client
+[31merror[39m: : 	Promise statck trace
+[31merror[39m: : 	ERROR => Unhandled Promise Rejection Cannot set headers after they are sent to the client
+[31merror[39m: : 	Promise statck trace
+[31merror[39m: : 	ERROR => Unhandled Promise Rejection Cannot set headers after they are sent to the client
+[31merror[39m: : 	Promise statck trace
+[32minfo[39m: : 	INFO => 200 || 2023-11-25T22:16:08.736Z - LOGIN SUCCESSFUL - /api/v1/login - POST - ::1
+[31merror[39m: : 	ERROR => Unhandled Promise Rejection Cannot set headers after they are sent to the client
+[31merror[39m: : 	Promise statck trace
+[31merror[39m: : 	ERROR => Unhandled Promise Rejection Cannot set headers after they are sent to the client
+[31merror[39m: : 	Promise statck trace
+[32minfo[39m: : 	INFO => 200 || 2023-11-25T22:17:37.977Z - LOGIN SUCCESSFUL - /api/v1/login - POST - ::1
+[31merror[39m: : 	ERROR => Unhandled Promise Rejection Cannot set headers after they are sent to the client
+[31merror[39m: : 	Promise statck trace
+[31merror[39m: : 	ERROR => Unhandled Promise Rejection Cannot set headers after they are sent to the client
+[31merror[39m: : 	Promise statck trace
+[31merror[39m: : 	ERROR => Unhandled Promise Rejection Cannot set headers after they are sent to the client
+[31merror[39m: : 	Promise statck trace
+[31merror[39m: : 	ERROR => Unhandled Promise Rejection Cannot set headers after they are sent to the client
+[31merror[39m: : 	Promise statck trace
+[32minfo[39m: : 	INFO => 200 || 2023-11-25T22:44:54.027Z - LOGIN SUCCESSFUL - /api/v1/login - POST - ::1
+[31merror[39m: : 	ERROR => Unhandled Promise Rejection Cannot set headers after they are sent to the client
+[31merror[39m: : 	Promise statck trace
+[31merror[39m: : 	ERROR => Unhandled Promise Rejection Cannot set headers after they are sent to the client
+[31merror[39m: : 	Promise statck trace
+[33mwarn[39m: : 	WARN => 404 || 2023-11-25T23:41:38.046Z - INCORRECT PASSWORD - /api/v1/login - POST - ::1
+[32minfo[39m: : 	INFO => 200 || 2023-11-25T23:41:44.991Z - LOGIN SUCCESSFUL - /api/v1/login - POST - ::1
+[31merror[39m: : 	ERROR => Unhandled Promise Rejection Cannot set headers after they are sent to the client
+[31merror[39m: : 	Promise statck trace
+[31merror[39m: : 	ERROR => 400 || 2023-11-26T00:18:28.046Z - JWT EXPIRED - /api/v1/chats - GET - ::1
+[31merror[39m: : 	ERROR => 400 || 2023-11-26T00:41:58.828Z - JWT EXPIRED - /api/v1/chats - GET - ::1
+[32minfo[39m: : 	INFO => 200 || 2023-11-26T01:12:52.859Z - LOGIN SUCCESSFUL - /api/v1/login - POST - ::1
+[31merror[39m: : 	ERROR => Unhandled Promise Rejection Cannot set headers after they are sent to the client
+[31merror[39m: : 	Promise statck trace
+[31merror[39m: : 	ERROR => 400 || 2023-11-26T18:01:49.440Z - JWT EXPIRED - /api/v1/chats - GET - ::1
+[32minfo[39m: : 	INFO => 200 || 2023-11-26T18:02:09.070Z - LOGIN SUCCESSFUL - /api/v1/login - POST - ::1
+[31merror[39m: : 	ERROR => Unhandled Promise Rejection Cannot set headers after they are sent to the client
+[31merror[39m: : 	Promise statck trace
+[31merror[39m: : 	ERROR => Unhandled Promise Rejection Cannot set headers after they are sent to the client
+[31merror[39m: : 	Promise statck trace
+[31merror[39m: : 	ERROR => Unhandled Promise Rejection Cannot set headers after they are sent to the client
+[31merror[39m: : 	Promise statck trace
+[32minfo[39m: : 	INFO => 200 || 2023-11-26T22:51:52.045Z - LOGIN SUCCESSFUL - /api/v1/login - POST - ::1
+[31merror[39m: : 	ERROR => Unhandled Promise Rejection Cannot set headers after they are sent to the client
+[31merror[39m: : 	Promise statck trace
+[32minfo[39m: : 	INFO => 200 || 2023-11-26T22:53:01.457Z - LOGIN SUCCESSFUL - /api/v1/login - POST - ::1
+[31merror[39m: : 	ERROR => Unhandled Promise Rejection Cannot set headers after they are sent to the client
+[31merror[39m: : 	Promise statck trace
+[31merror[39m: : 	ERROR => Unhandled Promise Rejection Cannot set headers after they are sent to the client
+[31merror[39m: : 	Promise statck trace
+[31merror[39m: : 	ERROR => Unhandled Promise Rejection Cannot set headers after they are sent to the client
+[31merror[39m: : 	Promise statck trace
+[31merror[39m: : 	ERROR => Unhandled Promise Rejection Cannot set headers after they are sent to the client
+[31merror[39m: : 	Promise statck trace
+[31merror[39m: : 	ERROR => Unhandled Promise Rejection Cannot set headers after they are sent to the client
+[31merror[39m: : 	Promise statck trace
+[31merror[39m: : 	ERROR => Unhandled Promise Rejection Cannot set headers after they are sent to the client
+[31merror[39m: : 	Promise statck trace
+[31merror[39m: : 	ERROR => Unhandled Promise Rejection Cannot set headers after they are sent to the client
+[31merror[39m: : 	Promise statck trace
+[31merror[39m: : 	ERROR => Unhandled Promise Rejection Cannot set headers after they are sent to the client
+[31merror[39m: : 	Promise statck trace
+[31merror[39m: : 	ERROR => Unhandled Promise Rejection Cannot set headers after they are sent to the client
+[31merror[39m: : 	Promise statck trace
+[31merror[39m: : 	ERROR => Unhandled Promise Rejection Cannot set headers after they are sent to the client
+[31merror[39m: : 	Promise statck trace

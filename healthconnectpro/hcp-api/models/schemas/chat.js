@@ -1,0 +1,11 @@
+exports.chatSchema = `
+  CREATE TABLE IF NOT EXISTS chats(
+    "id" SERIAL PRIMARY KEY,
+    "ownedBy" INT NOT NULL REFERENCES users(id),
+    "chatStartedAt" VARCHAR(255) NOT NULL,
+    "chatTopic" TEXT NOT NULL,
+    "chatLogs" jsonb NOT NULL,
+    "createdAt" TIMESTAMP WITH TIME ZONE NOT NULL DEFAULT CURRENT_TIMESTAMP,
+    "updatedAt" TIMESTAMP WITH TIME ZONE NOT NULL DEFAULT CURRENT_TIMESTAMP
+  )
+`

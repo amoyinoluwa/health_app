@@ -1,0 +1,14 @@
+exports.authSchema = `
+  CREATE TABLE IF NOT EXISTS users(
+    "id" SERIAL PRIMARY KEY,
+    "firstName" VARCHAR(255) NOT NULL,
+    "lastName" VARCHAR(255) NOT NULL,
+    "email" VARCHAR(255) NOT NULL,
+    "password" VARCHAR(255) NOT NULL,
+    "phoneNumber" VARCHAR(255) NOT NULL,
+    "verifified" BOOLEAN DEFAULT TRUE,
+    "userType" VARCHAR(50) NOT NULL,
+    "createdAt" TIMESTAMP WITH TIME ZONE NOT NULL DEFAULT CURRENT_TIMESTAMP,
+    "updatedAt" TIMESTAMP WITH TIME ZONE NOT NULL DEFAULT CURRENT_TIMESTAMP
+  )
+`
