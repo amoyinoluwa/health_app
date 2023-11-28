@@ -1,7 +1,7 @@
 # HealthConnectPro
-```
-HealthConnectPro is ChatGPT for medical related questions. It leverages [PMC-LLaMA](https://github.com/chaoyi-wu/PMC-LLaMA), a version of LLaMA that was fine-tuned on medical data.
-```
+
+## HealthConnectPro is ChatGPT for medical related questions. It leverages [PMC-LLaMA](https://github.com/chaoyi-wu/PMC-LLaMA), a version of LLaMA that was fine-tuned on medical data.
+
 ## Project setup
 ```
 npm install
